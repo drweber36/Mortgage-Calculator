@@ -1,6 +1,6 @@
-                ### Mortage Calculator V2.0 ###
+                ### Mortage Calculator V2.5 ###
 
-### Things To Add: HOA, Payoff Date, Total and Yealy Tax paid, Sales Tax, add error messages
+### Things To Add: HOA, Payoff Date, Other Tax, add error messages
 
 
 payment_term = 0
